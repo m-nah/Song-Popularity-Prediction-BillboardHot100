@@ -1,4 +1,4 @@
-# animated-octo-system
+# Billboard Hot 100 Song Popularity Prediction Model
 
 This is a project looking at the Billboard Hot 100 song chart from 1958 - 2021. We look at song attributes pulled from Spotify's API, and build models to predict if a song will be a Number One Hit.
 
